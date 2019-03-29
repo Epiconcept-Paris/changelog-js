@@ -1,12 +1,15 @@
 {
   "name": "changelog-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "compile": "babel src -d lib",
     "prepare": "npm run compile"
+  },
+  "repository": {
+    "url": "https://github.com/Epiconcept-Paris/changelog-js"
   },
   "dependencies": {},
   "author": "",
