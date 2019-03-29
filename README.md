@@ -1,9 +1,13 @@
-### Exemple de fichier à parser
+# Changelog-js
+Analysis of a pre-formatted markdown file to extract an exploitable array of changes.
+[![npm version](https://badge.fury.io/js/changelog-js.svg)](https://badge.fury.io/js/changelog-js)
+
+### Example of a markdown file
 
 ```md
 ---
 name: 1.1.0
-date: Janvier 2019
+date: January 2019
 ---
 
 - *change* [#109](https://github.com/orga/repo/issues/109) A change with image
