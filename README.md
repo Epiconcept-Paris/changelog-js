@@ -1,6 +1,7 @@
+[![npm version](https://badge.fury.io/js/changelog-js.svg)](https://badge.fury.io/js/changelog-js)
+
 # Changelog-js
 Analysis of a pre-formatted markdown file to extract an exploitable array of changes.
-[![npm version](https://badge.fury.io/js/changelog-js.svg)](https://badge.fury.io/js/changelog-js)
 
 ### Example of a markdown file
 
